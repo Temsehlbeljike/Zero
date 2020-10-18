@@ -1,0 +1,8 @@
+pkg update 
+pkg upgrade 
+pkg install python2 
+pkg install git 
+pip2 install requests mechanize
+git clone https://github.com/Temsehlbeljike/Zero.git
+cd Zero.git
+python2 Temsehlbeljike.py
